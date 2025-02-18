@@ -1,3 +1,3 @@
 # OOPs
 OOPs Practice
-Authot-Suman Pokhrel
+Author-Suman Pokhrel
